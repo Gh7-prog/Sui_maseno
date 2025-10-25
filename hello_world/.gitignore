@@ -1,0 +1,11 @@
+build/*
+.trace
+.coverage*
+.log
+.tmp
+.DS_files
+thumbs.db
+.Sui/
+.VsCode/
+.idea
+target/
